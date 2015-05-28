@@ -3,7 +3,7 @@ Takeaway Challenge
 
 ## Lessons learned
 
-I didn't complete this task satisfactorily and was not happy with the outcome so I redid the whole thing on reflection a couple of days later. I did not test drive the design and as a result ended up with incoherent, overengineered spaghetti code. This was a lesson learned the hard way, so I kept this as a reminder of how not to do things. Please take a look at the [takeaway-challenge-reboot](https://github.com/veliancreate/takeaway-challenge-reboot), for my other attempt :). 
+I didn't complete this task satisfactorily and was not happy with the outcome so I redid the whole thing on reflection a couple of days later. The problem with this design was that I did not test drive design and as a result ended up with incoherent, overengineered spaghetti code. A lesson learned the hard way, so I kept this as a reminder of how not to do things. Please take a look at the [takeaway-challenge-reboot](https://github.com/veliancreate/takeaway-challenge-reboot), for my other attempt :). 
 
 Instructions
 -------
